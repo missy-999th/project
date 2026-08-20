@@ -96,3 +96,6 @@ print("Hola, mundo")
 
 | `git push` | Publica los cambios en GitHub |
 
+## Aporte
+
+Se agregó esta sección como práctica del trabajo colaborativo mediante ramas en Git.
