@@ -6,11 +6,11 @@
 
 
 
-Practicar el uso de Git y GitHub para controlar las versiones de un proyecto.
+Practicar el uso de Git y GitHub para gestionar versiones de un proyecto.
 
 
 
-\## Integrantes
+\### Integrantes
 
 
 
@@ -22,7 +22,15 @@ Practicar el uso de Git y GitHub para controlar las versiones de un proyecto.
 
 
 
-Este repositorio fue creado para practicar los comandos básicos de Git, el uso de ramas y la publicación de cambios en GitHub.
+Este repositorio fue creado para practicar los comandos básicos de Git y GitHub.
+
+
+
+\*\*Git\*\* permite controlar las versiones de un proyecto.
+
+
+
+\*GitHub\* permite almacenar y compartir repositorios en línea.
 
 
 
@@ -39,4 +47,12 @@ Este repositorio fue creado para practicar los comandos básicos de Git, el uso 
 4\. git commit
 
 5\. git push
+
+
+
+\## Enlace
+
+
+
+\[Sitio de GitHub](https://github.com/)
 
