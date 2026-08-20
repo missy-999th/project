@@ -56,3 +56,43 @@ Este repositorio fue creado para practicar los comandos básicos de Git y GitHub
 
 \[Sitio de GitHub](https://github.com/)
 
+
+
+\## Uso de Git
+
+
+
+Use `git status` para revisar el estado del repositorio.
+
+
+
+\## Ejemplo
+
+
+
+```python
+
+print("Hola, mundo")
+
+```
+
+
+
+\## Comandos principales
+
+
+
+| Comando | Función |
+
+| --- | --- |
+
+| `git status` | Revisa los cambios |
+
+| `git add .` | Prepara los archivos |
+
+| `git commit` | Guarda los cambios |
+
+| `git log` | Muestra el historial |
+
+| `git push` | Publica los cambios en GitHub |
+
